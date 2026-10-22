@@ -1,0 +1,5 @@
+CourseID,CourseName,CourseType,BaseFee,CourseAdjustmentFee,OfferDiscountPercent,OfferEndDate,OfferStatus,OfferDiscountAmount,FinalFee
+C101,Python Programming,Classroom,20000.0,Facility-fee of 200,5.0,2026-12-31 00:00:00,With Offer,1010.0,19190.0
+C102,SQL Fundamentals,Online,15000.0,Discount of 10%,10.0,2026-10-01 00:00:00,Without Offer,0,13500.0
+C103,Full Stack Development,Classroom,30000.0,Facility-fee of 200,15.0,2026-11-30 00:00:00,With Offer,4530.0,25670.0
+C105,Cloud Fundamentals,Online,18000.0,Discount of 10%,0.0,,Without Offer,0,16200.0

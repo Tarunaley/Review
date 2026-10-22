@@ -1,0 +1,10 @@
+CourseID,CourseName,CourseType,BaseFee,OfferDiscount,OfferEndDate
+C101,Python Programming,Classroom,20000,5,2026-12-31
+C102,SQL Fundamentals,Online,15000,10,2026-10-01
+C103,Full Stack Development,Classroom,30000,15,2026-11-30
+C104,Data Analytics,Online,abc,10,2026-12-31
+C105,Cloud Fundamentals,Online,18000,0,
+C106,Web Development,Hybrid,25000,5,2026-12-31
+C101,Advanced Python,Online,12000,10,2026-12-31
+C107,Java Programming,Classroom,-5000,5,2026-12-31
+C108,Web API Development,Online,25000,10,invalid-date
